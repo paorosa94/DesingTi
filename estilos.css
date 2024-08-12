@@ -156,7 +156,7 @@ height: 97vh;
 .testimonios{
     height: 97vh;
     position: relative;
-    background: url(/img/testimonio.jpg);
+    background: url(img/testimonio.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: white;
